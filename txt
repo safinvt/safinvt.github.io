@@ -1,0 +1,2 @@
+origin	git@github.com:safinvt/safinvt.github.io.git (fetch)
+origin	git@github.com:safinvt/safinvt.github.io.git (push)
